@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11932" started-at="2017-11-06T13:25:58Z" finished-at="2017-11-06T13:26:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11932" started-at="2017-11-06T13:25:58Z" finished-at="2017-11-06T13:26:10Z">
+      <class name="com.prometheus.tests.WikipediaTest">
+        <test-method status="PASS" signature="suiteTestBefore()[pri:0, instance:com.prometheus.tests.WikipediaTest@5d5eef3d]" name="suiteTestBefore" is-config="true" duration-ms="11787" started-at="2017-11-06T08:25:46Z" finished-at="2017-11-06T08:25:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTestBefore -->
+        <test-method status="PASS" signature="basicSearchBarTest()[pri:1, instance:com.prometheus.tests.WikipediaTest@5d5eef3d]" name="basicSearchBarTest" duration-ms="2392" started-at="2017-11-06T08:25:58Z" finished-at="2017-11-06T08:26:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicSearchBarTest -->
+        <test-method status="PASS" signature="hiddenContentsTest()[pri:2, instance:com.prometheus.tests.WikipediaTest@5d5eef3d]" name="hiddenContentsTest" duration-ms="1274" started-at="2017-11-06T08:26:01Z" finished-at="2017-11-06T08:26:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hiddenContentsTest -->
+        <test-method status="PASS" signature="autoCompleteSearchTest()[pri:3, instance:com.prometheus.tests.WikipediaTest@5d5eef3d]" name="autoCompleteSearchTest" duration-ms="8246" started-at="2017-11-06T08:26:02Z" finished-at="2017-11-06T08:26:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoCompleteSearchTest -->
+        <test-method status="PASS" signature="suiteTestAfter()[pri:0, instance:com.prometheus.tests.WikipediaTest@5d5eef3d]" name="suiteTestAfter" is-config="true" duration-ms="18" started-at="2017-11-06T08:26:10Z" finished-at="2017-11-06T08:26:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTestAfter -->
+      </class> <!-- com.prometheus.tests.WikipediaTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
